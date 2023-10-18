@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a web development student with CareerFoundry. 
+
 <!--
 **Carbon-42/Carbon-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
